@@ -1,0 +1,174 @@
+.divp1
+{
+	position: absolute;
+	background-color: black;
+	opacity: 50%;
+	height: 30%;
+    width: 51%;
+    top: 8%;
+    left: 25%;
+    border-radius: 8px;
+
+    -webkit-box-shadow: 8px 8px 11px #999;       /* -SOMBRA- */
+    -moz-box-shadow: 2px 2px 5px #999;
+	z-index: 100%;
+}
+
+.p2
+{
+	position: absolute;
+	left: 40%;
+	width: 30%;
+	top: 10%;
+}
+
+.linea1
+{
+	position: absolute;
+	width: 10%;
+	top: 8.5%;
+	left: 65.7%;
+}
+.linea2
+{
+	position: absolute;
+	width: 10%;
+	top: 19%;
+	left: 25.2%;
+}
+
+.Entrega1
+{
+	position: absolute;
+	top: 45%;
+	left: 18%;
+	font-style: oblique;
+	background-color: white;
+	text-decoration: none;
+	padding: 40px;
+	border: 1px solid #29286D;
+	border-radius: .25rem;
+	color: #29286D;
+	transition: color .15s ease-in-out,
+	background-color .15s ease-in-out;
+	font-size: 25px;
+}
+
+.Entrega1:hover, .Entrega1:active, .Entrega1:focus {
+	color: white;
+	background-color: #29286D;
+}
+
+.Entrega2
+{
+	position: absolute;
+	top: 45%;
+	left: 35%;
+	font-style: oblique;
+	background-color: white;
+	text-decoration: none;
+	padding: 40px;
+	border: 1px solid #29286D;
+	border-radius: .25rem;
+	color: #29286D;
+	transition: color .15s ease-in-out,
+	background-color .15s ease-in-out;
+	font-size: 25px;
+}
+
+.Entrega2:hover, .Entrega2:active, .Entrega2:focus {
+	color: white;
+	background-color: #29286D;
+}
+
+.Entrega4
+{
+	position: absolute;
+	top: 45%;
+	left: 69%;
+	font-style: oblique;
+	background-color: white;
+	text-decoration: none;
+	padding: 40px;
+	border: 1px solid #29286D;
+	border-radius: .25rem;
+	color: #29286D;
+	transition: color .15s ease-in-out,
+	background-color .15s ease-in-out;
+	font-size: 25px;
+}
+
+.Entrega4:hover, .Entrega4:active, .Entrega4:focus {
+	color: white;
+	background-color: #29286D;
+}
+
+.Entrega5
+{
+	position: absolute;
+	top: 64%;
+	left: 18%;
+	font-style: oblique;
+	background-color: white;
+	text-decoration: none;
+	padding: 40px;
+	border: 1px solid #29286D;
+	border-radius: .25rem;
+	color: #29286D;
+	transition: color .15s ease-in-out,
+	background-color .15s ease-in-out;
+	font-size: 25px;
+}
+
+.Entrega5:hover, .Entrega5:active, .Entrega5:focus {
+	color: white;
+	background-color: #29286D;
+}
+
+.Parcial
+{
+	position: absolute;
+	top: 45%;
+	left: 52%;
+	width: 7.7%;
+	text-align: center;
+	font-style: oblique;
+	background-color: white;
+	text-decoration: none;
+	padding: 40px;
+	border: 1px solid #29286D;
+	border-radius: .25rem;
+	color: #29286D;
+	transition: color .15s ease-in-out,
+	background-color .15s ease-in-out;
+	font-size: 25px;
+}
+
+.Parcial:hover, .Parcial:active, .Parcial:focus {
+	color: white;
+	background-color: #29286D;
+}
+
+.divRegresar
+{
+	position: absolute;
+	background-color: black;
+	opacity: 30%;
+	height: 8.7%;
+    width: 11.5%;
+    top: 2%;
+    left: 2%;
+    border-radius: 12px;
+
+    -webkit-box-shadow: 8px 8px 11px #999;       /* -SOMBRA- */
+    -moz-box-shadow: 2px 2px 5px #999;
+	z-index: 100%;
+}
+
+.regresar
+{
+	position: absolute;
+	width: 19%;
+	top: -6.8%;
+	left: -3.15%;
+}
